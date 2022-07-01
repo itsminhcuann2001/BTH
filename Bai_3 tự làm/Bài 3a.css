@@ -1,0 +1,74 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    width: 100%;
+    font-family: "Arial", sans-serif;
+}
+h2{
+    padding: 30px;
+    color:#133644;
+    background-color:#edf117;
+    text-align: center;
+}
+nav{
+    background-color:#b6e230;
+}
+nav ul{
+    width: 95%;
+    margin-bottom: 40px;
+    list-style-type: none;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: blue;
+    display: block;
+    padding: 20px;
+}
+section{
+    width: 30%;
+    text-align: center;
+    float: left;
+}
+section figure{
+    padding-top: 150px;
+    width: 100%;
+    margin: 0 auto;
+}
+section figure figcaption{
+    width: 99%;
+    height: 99%;
+}
+section figure img{
+    width: 100%;
+    height: 90%;
+}
+aside{
+    width: 68%;
+    float: left;
+    margin-left: 2%;
+    padding: 15px 0;
+}
+aside article h1{
+    color:#6fc738;
+    padding: 10px 0;
+}
+footer{
+    width: 100%;
+    text-align: center;
+    margin-top: 60px;
+    padding: 20px 0;
+    float: left;
+    background-color: #b6e230;
+}
+a:hover{
+    color:red;
+}
