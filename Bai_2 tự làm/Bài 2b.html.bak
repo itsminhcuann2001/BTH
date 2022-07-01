@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Top 5 cơ hội nghề nghiệp dành cho SV CNTT</title>
+		<style>
+		body{ background-color: #ffffcb;
+		}
+		</style>
+	</head>
+	<body>
+		<font face="arial">
+		<header>
+			<center>
+			<h1><font color="red">TOP 5 CƠ HỘI NGHỀ NGHIỆP DÀNH CHO SINH VIÊN CNTT</font></h1>
+			<nav>
+				<a href="#s1">Giám đốc CNTT</a> |
+				<a href="#s2">Trưởng phòng CNTT</a> |
+				<a href="#s3">Giám đốc kỹ thuật</a> |
+				<a href="#s4">Trưởng nhóm lập trình</a> |
+				<a href="#">Chuyên gia phân tích dữ liệu</a> |
+			</nav>
+			<figure>
+				<img src="D:\Knowledge\Lập trình web\Thực hành\Bai_2\img\success.png"/>
+			</figure>
+			<p>Hình 1. -Chìa khóa thành công.</p>
+			</center>
+		</header>
+		<section id="content">
+			<article>
+				<h4><b>Giám đốc CNTT</b></h4>
+				<details>
+					<summary>Với kinh nghiệm 10-20 năm, học viên ngành IT có thể trở thành CIO - Giám đốc CNTT, sở hữu mức lương 3000-5000$.</summary>
+				</details>
+			</article>
+			<article>
+				<h4><b>Trưởng phòng CNTT</b></h4>
+				<details>
+					<summary>Ở mức kinh nghiệm thấp hơn 5-10 năm, sinh viên IT có thể trở thành IT manager - Trưởng phòng CNTT và sở hữu mức lương 1000-2000$.</summary>
+				</details>
+			</article>
+			<article>
+				<h4><b>Giám đốc kĩ thuật</b></h4>
+				<details>
+					<summary>Học viên ngành IT có thể trở thành Tehcnical leader - Giám đốc kĩ thuật khi có từ 5 đến 10 năm kinh nghiệm.</summary>
+				</details>
+			</article>
+			<article>
+				<h4><b>Trưởng nhóm lập trình</b></h4>
+				<details>
+					<summary>Team leader - Trưởng nhóm lập trình là công việc thường thấy của dân IT khi có 3-5 năm kinh nghiệm.</summary>
+				</details>
+			</article>
+		</section>
+		<footer>
+			<center><h5>Design by Cuân</h5></center>
+		</footer>
+		</font>
+	</body>
+</html>
